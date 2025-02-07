@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cros": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "pg": "^8.13.1",
+    "socket.io": "^4.8.1"
+  }
+}
